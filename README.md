@@ -8,3 +8,6 @@
 6) Add Generate IP and PORT
 7) Add Always Connect to IP and PORT
 8) Add INSTALL Packages
+
+# Installation Colay to Windows
+PZUIGFTZDVGHUFDGI
