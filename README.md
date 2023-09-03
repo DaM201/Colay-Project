@@ -10,4 +10,4 @@
 8) Add INSTALL Packages
 
 # Installation Colay to Windows
-PZUIGFTZDVGHUFDGI
+`Install Colay`
