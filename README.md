@@ -12,26 +12,25 @@
 # Installation Colay to Windows
 
 `Download Colay`
-1) Then Open a **Command Prompt** in the Directory Where **Colay** is Located. Then Type This **Command**  -
-##colay --help
+1) Then Open a **Command Prompt** in the Directory Where **Colay** is Located. Then Type This **Command**  -  `colay --help`
 
 # Installation Colay to Linux
 
 1) Install git `sudo apt install git`
-2) Open a **Linux** Terminal and type this **Command**  -  ##git clone https://github.com/DaM201/Colay-Project-Mobile **Its Version 0.2**
-3) If **Colay** is Installed, Type This **Command**  -  ##sudo apt install python && python Colay-Project/colay.py --help
+2) Open a **Linux** Terminal and type this **Command**  -  `git clone https://github.com/DaM201/Colay-Project-Mobile` **Its Version 0.2**
+3) If **Colay** is Installed, Type This **Command**  -  `sudo apt install python && python Colay-Project/colay.py --help`
 
 # Installation Colay to Termux
 
 1) Install **git** ##pkg install git
-2) Open a **Termux** Terminal and type this **Command**  -  ##git clone https://github.com/DaM201/Colay-Project-Mobile
-4) If **Colay** is Installed, Type This **Command**  -  ##pkg install python && python Colay-Project/colay.py --help
+2) Open a **Termux** Terminal and type this **Command**  -  `git clone https://github.com/DaM201/Colay-Project-Mobile` **Its Version 0.2**
+4) If **Colay** is Installed, Type This **Command**  -  `pkg install python && python Colay-Project/colay.py --help`
 
 # Installation Python Packages
 
-1) ##pip install colorama
-2) ##pip install requests
-3) ##pip install psutil
+1) `pip install colorama`
+2) `pip install requests`
+3) `pip install psutil`
    
 # Other Updates - Colay
 
