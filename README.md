@@ -11,7 +11,7 @@
 
 # Installation Colay to Windows
 
-`Download Colay`
+```Download Colay```
 1) Then Open a **Command Prompt** in the Directory Where **Colay** is Located. Then Type This **Command**  -
 ```colay --help```
 
