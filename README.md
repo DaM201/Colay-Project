@@ -23,7 +23,7 @@
 
 # Installation Colay to Termux
 
-1) Install **git** ##pkg install git
+1) Install **git** ``pkg install git``
 2) Open a **Termux** Terminal and type this **Command**  -  `git clone https://github.com/DaM201/Colay-Project-Mobile` **Its Version 0.2**
 4) If **Colay** is Installed, Type This **Command**  -  `pkg install python && python Colay-Project/colay.py --help`
 
